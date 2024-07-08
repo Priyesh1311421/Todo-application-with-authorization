@@ -1,0 +1,39 @@
+.login{
+    width: 100%;
+    height: 100vh;
+    margin-top: 60px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: fit-content;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 25px !important;
+    background-color: rgb(244, 244, 245);
+}
+.signup-btn{
+    margin-top: 10px;
+    padding: 5px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: rgb(179, 154, 234);
+}
+
+.password-toggle-icon {
+    position: absolute;
+    top: 65.1%;
+    right: 55px;
+    cursor: pointer;
+}
+
+.signup-heading{
+    margin-bottom: 20px;
+}
+  

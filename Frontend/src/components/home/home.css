@@ -1,0 +1,17 @@
+.home{
+    width: 100%;
+    height: 100vh;
+}
+
+.home h1{
+    font-size: 60px;
+}
+
+.home-btn{
+    background-color: rgb(68, 63, 135);
+    border-radius: 5px;
+    color: white !important;
+    font-weight: bold;
+    border: none;
+    outline: none;
+}

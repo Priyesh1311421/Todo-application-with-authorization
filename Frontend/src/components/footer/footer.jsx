@@ -1,0 +1,14 @@
+import React from 'react'
+import './footer.css'
+
+const Footer = () => {
+  return (
+    <div className='container-fluid p-3 d-flex justify-content-center align-items-center bg-black text-white footer'>
+        <h4 className='p-2'>todo  </h4>
+        &nbsp;
+        <p className='m-0'>&copy;2024 PRIYESH CHAUDHARI & CO. All rights reserved</p>
+    </div>
+  )
+}
+
+export default Footer

@@ -1,0 +1,20 @@
+#navbarSupportedContent {
+    margin-right: 50px;
+    
+}
+
+.usericon{
+    width:30px;
+    height: 30px;
+}
+
+.navbar-brand{
+    color: blue;
+}
+
+.btn-nav{
+    background-color: rgb(68, 63, 135);
+    border-radius: 5px;
+    color: white !important;
+    font-weight: bold;
+}
